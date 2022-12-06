@@ -1,0 +1,19 @@
+{
+    "name": "simple-node-sql",
+    "version": "0.0.1",
+    "description": "An educational repo that shows how to deploy a node backend that connects to a cloud hosted SQL server",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mklilley/simple-node-sql.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mklilley/simple-node-sql/issues"
+    },
+    "homepage": "https://github.com/mklilley/simple-node-sql#readme"
+}
