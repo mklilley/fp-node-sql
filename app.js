@@ -8,7 +8,7 @@ const { pool } = require("./initdb");
 app.use(cors());
 
 app.get("/", (req, res) => {
-    res.send("Hello, world!");
+    res.send("Welcome to the elements API!");
 });
 
 app.get("/elements", async (req, res) => {
