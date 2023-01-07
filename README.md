@@ -1,4 +1,4 @@
-# simple-node-sql
+# fp-node-sql
 
 An educational repo that shows how to connect a node backend to a Postgres SQL server.
 
