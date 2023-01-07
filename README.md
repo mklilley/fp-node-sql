@@ -22,3 +22,5 @@ postgresql://{USERNAME}:{PASSWORD}@{HOSTNAME}:{PORT}/{DB_NAME}
 Typically, a remote postgres server still has `DB_NAME=postgres` as it's default database name and `PORT=5432`.
 
 It's often the case that you'll need to specify `?sslmode=require` at the end of the connection string for cloud based database connections - see [node-postgres docs](https://node-postgres.com/features/connecting) for more specifics.
+
+An [video walkthrough](https://www.youtube.com/watch?v=_SGMs3STWAY_ of how to continuiously deploy Node + Postgres to Azure cloud deployment can be found on my YouTube channel.
